@@ -1,0 +1,24 @@
+{
+  "name": "Memory",
+  "version": "1.0.0",
+  "description": "a memory game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NMenzel/memoryGame.git"
+  },
+  "keywords": [
+    "game",
+    "js"
+  ],
+  "author": "Niklas Menzel-Sandic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NMenzel/memoryGame/issues"
+  },
+  "homepage": "https://github.com/NMenzel/memoryGame#readme",
+  
+}

@@ -1,0 +1,66 @@
+export const cards = [
+    {
+        name: "diamond",
+        class: "fa fa-diamond"
+    },
+    {
+        name: "plane-o",
+        class: "fa fa-paper-plane-o"
+    },
+    {
+        name: "anchor",
+        class: "fa fa-anchor"
+    },
+    {
+        name: "bolt",
+        class: "fa fa-bolt"
+    },
+    {
+        name: "cube",
+        class: "fa fa-cube"
+    },
+    {
+        name: "anchor2",
+        class: "fa fa-anchor"
+    },
+    {
+        name: "leaf",
+        class: "fa fa-leaf"
+    },
+    {
+        name: "bicycle",
+        class: "fa fa-bicycle"
+    },
+    {
+        name: "diamond2",
+        class: "fa fa-diamond"
+    },
+    {
+        name: "bomb",
+        class: "fa fa-bomb"
+    },
+    {
+        name: "leaf2",
+        class: "fa fa-leaf"
+    },
+    {
+        name: "bomb2",
+        class: "fa fa-bomb"
+    },
+    {
+        name: "bolt2",
+        class: "fa fa-bolt"
+    },
+    {
+        name: "bicycle2",
+        class: "fa fa-bicycle"
+    },
+    {
+        name: "plane-o2",
+        class: "fa fa-paper-plane-o"
+    },
+    {
+        name: "cube2",
+        class: "fa fa-cube"
+    },
+];
